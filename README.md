@@ -30,7 +30,7 @@ The specs contained in this repository are:
 **IPLD:**
 - [IPLD](/ipld) ![](https://img.shields.io/badge/status-reliable-green.svg?style=flat-square) - spec about the data model, pointers and link formats
 - IPLD Selectors ![](https://img.shields.io/badge/status-wip-orange.svg?style=flat-square) - spec about simple language to select multiple unknown nodes in a graph
-- IPLD Transformations ![](https://img.shields.io/badge/status-wip-orange.svg?style=flat-square) - spec about the language to trasform an IPLD graph into another
+- IPLD Transformations ![](https://img.shields.io/badge/status-wip-orange.svg?style=flat-square) - spec about the language to transform an IPLD graph into another
 
 ## Maintainers
 
